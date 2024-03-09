@@ -14,4 +14,6 @@ My first color theme made for [Visual Studio Code](https://code.visualstudio.com
 
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/luanpiegas/Slime-vscode-theme?style=social)](https://github.com/luanpiegas/Slime-vscode-theme/pulls)
 
+[Install on Marketplace](https://marketplace.visualstudio.com/items?itemName=luanpiegas.slime-color-theme)
+
 **Enjoy!**

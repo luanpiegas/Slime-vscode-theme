@@ -2,6 +2,9 @@
 
 My first color theme made for [Visual Studio Code](https://code.visualstudio.com/). The name was chosen to represent a Tibia creature called [Slime](https://www.tibia.com/community/?subtopic=creatures&name=Slime).
 
+# Screenshot
+
+![Screenshot](screenshot.png)
 
 [![GitHub stars](https://img.shields.io/github/stars/luanpiegas/Slime-vscode-theme?style=social)](https://github.com/luanpiegas/Slime-vscode-theme/stargazers)
 

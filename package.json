@@ -1,0 +1,40 @@
+{
+  "name": "slime-color-theme",
+  "displayName": "Slime Color Theme",
+  "description": "Slime color theme for Visual Studio Code",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "license": "MIT",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LuanPiegas/Slime-vscode-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/LuanPiegas/Slime-vscode-theme/issues"
+  },
+  "homepage": "https://github.com/LuanPiegas/Slime-vscode-theme#readme",
+  "keywords": [
+    "theme",
+    "slime",
+    "color"
+  ],
+  "author": {
+    "name": "Luan Piegas",
+    "url": "https://github.com/luanpiegas"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Slime",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Slime-color-theme.json"
+      }
+    ]
+  }
+}
